@@ -1,6 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -10,35 +7,21 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i0.wp.com/okandroid.net/wp-content/uploads/2016/01/telwhatsmes.jpg?fit=735%2C400" alt="Logo" width="1100" height="450">
+    <img src="https://i0.wp.com/okandroid.net/wp-content/uploads/2016/01/telwhatsmes.jpg?fit=735%2C400" alt="Logo" width="800" height="450">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Exploring Chat Patterns on Messaging Apps</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This project attempts to visualize the chat patterns of me and my friends and extract some of useful information which could be valuable.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+   
   </p>
 </div>
 
